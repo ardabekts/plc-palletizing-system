@@ -1,80 +1,69 @@
-# PLC Paletleme Sistemi
+# PLC Palletizing System
 
-## 📌 Proje Özeti
+## 📌 Project Overview
+This project is a **PLC-based palletizing system** developed as a university course project. The system sorts boxes according to their **sizes** and then palletizes them based on predefined logic. The project was later enhanced by adding an **HMI (Human-Machine Interface)** for better monitoring and control.
 
-Bu proje, bir **PLC tabanlı paletleme sistemi**dir ve üniversite kapsamında geliştirilen bir ders projesidir. Sistem, otomatik bir paletleme sürecini kontrol eder. Proje daha sonra **HMI (İnsan-Makine Arayüzü)** eklenerek geliştirilmiştir.
-
-Bu proje aşağıdaki yetkinlikleri göstermektedir:
-
-* Kutuların boyutlarına göre ayrıştırılması
-* Boyuta bağlı paletleme senaryosu
-* Endüstriyel otomasyon mantığı
-* PLC programlama yapısı
-* HMI entegrasyonu
+This project demonstrates:
+- Box sorting based on size
+- Size-dependent palletizing logic
+- Industrial automation principles
+- PLC program structure
+- HMI integration
 
 ---
 
-## 🏭 Sistem Açıklaması
+## 🏭 System Description
+The palletizing system is designed to perform the following tasks:
+- Detect and classify boxes according to their dimensions
+- Route boxes based on size categories
+- Execute palletizing operations according to the assigned box type
+- Provide a safe and structured palletizing process
 
-Paletleme sistemi aşağıdaki işlevleri yerine getirecek şekilde tasarlanmıştır:
-
-* Ürün akışının kontrolü
-* Palet dizilim mantığının yönetimi
-* Güvenli ve düzenli paletleme operasyonları
-
-Sistem ilk olarak **HMI olmadan** geliştirilmiş, daha sonra operatör kullanımını ve izlemeyi kolaylaştırmak amacıyla **HMI ekranları** eklenmiştir.
-
----
-
-## 🧩 Proje Versiyonları
-
-### 🔹 v1 – İlk Versiyon (Mart 2025)
-
-* Sadece PLC yazılımı
-* HMI ekranı yok
-* Temel paletleme fonksiyonları
-
-📁 Dosya:
-
-* `plc-palletizing-system.rar`
+The system was initially developed **without an HMI** and later upgraded with **HMI screens** to improve operator interaction and system monitoring.
 
 ---
 
-### 🔹 v2 – HMI Entegreli Versiyon (Güncel)
+## 🧩 Project Versions
 
-* HMI ekranları eklendi
-* Geliştirilmiş kontrol ve izleme
-* Operatör dostu arayüz
+### 🔹 v1 – Initial Version (March 2025)
+- PLC logic only
+- No HMI screens
+- Core sorting and palletizing functionality implemented
 
-📁 Dosya:
-
-* `plc-palletizing-system-hmi.rar`
-
----
-
-## 🛠️ Kullanılan Teknolojiler
-
-* PLC Programlama (Siemens S7-1500)
-* Factory I/O (Simülasyon ortamı)
-* HMI Tasarımı
+📁 File:
+- `plc-palletizing-system.rar`
 
 ---
 
-## 🎓 Notlar
+### 🔹 v2 – HMI Integrated Version (Latest)
+- HMI screens added
+- Improved control and monitoring
+- Operator-friendly interface
 
-* Bu proje **eğitim amaçlı** geliştirilmiştir.
-* Herhangi bir firmaya bağlı değildir.
-* Dosyalar öğrenme ve gösterim amacıyla paylaşılmıştır.
-
----
-
-## 👤 Geliştirici
-
-**Arda Bektaş**
-Endüstriyel Otomasyon & Yazılım Meraklısı
+📁 File:
+- `plc-palletizing-system-hmi.rar`
 
 ---
 
-## ⭐ Depo Kullanımı
+## 🛠️ Technologies Used
+- PLC Programming (Siemens S7-1500)
+- Factory I/O (Simulation Environment)
+- HMI Design
 
-Projeyi inceleyebilirsiniz. Faydalı bulursanız GitHub üzerinde ⭐ vermeyi düşünebilirsiniz.
+---
+
+## 🎓 Notes
+- This project was developed for **educational purposes**.
+- It is **not affiliated with any company**.
+- All files are shared for learning and demonstration purposes only.
+
+---
+
+## 👤 Author
+**Arda Bektaş**  
+Industrial Automation Enthusiast
+
+---
+
+## ⭐ Repository Usage
+Feel free to explore the project files. If you find this project useful, consider giving it a ⭐ on GitHub.
