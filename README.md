@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="images/system-overview.png" style="max-width:32%; height:auto;" />
-  <img src="images/factory-io.png" style="max-width:32%; height:auto;" />
-  <img src="images/hmi-screen.png" style="max-width:32%; height:auto;" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="images/system-overview.png" /></td>
+    <td><img src="images/factory-io.png" /></td>
+    <td><img src="images/hmi-screen.png" /></td>
+  </tr>
+</table>
+
 
 <h1 align="center">PLC Palletizing System</h1>
 <p align="center">PLC-based sorting & palletizing with HMI integration</p>
