@@ -1,8 +1,14 @@
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="images/system-overview.png" /></td>
-    <td><img src="images/factory-io.png" /></td>
-    <td><img src="images/hmi-screen.png" /></td>
+    <td width="33%">
+      <img src="images/system-overview.png" />
+    </td>
+    <td width="33%">
+      <img src="images/factory-io.png" />
+    </td>
+    <td width="33%">
+      <img src="images/hmi-screen.png" />
+    </td>
   </tr>
 </table>
 
