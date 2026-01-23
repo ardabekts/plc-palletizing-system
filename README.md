@@ -1,16 +1,9 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr style="border:none;">
-    <td width="33%" style="border:none; padding:0;">
-      <img src="images/system-overview.png" />
-    </td>
-    <td width="33%" style="border:none; padding:0;">
-      <img src="images/factory-io.png" />
-    </td>
-    <td width="33%" style="border:none; padding:0;">
-      <img src="images/hmi-screen.png" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/system-overview.png" width="30%" />
+  <img src="images/factory-io.png" width="30%" />
+  <img src="images/hmi-screen.png" width="30%" />
+</p>
+
 
 
 <h1 align="center">PLC Palletizing System</h1>
