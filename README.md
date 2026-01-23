@@ -1,12 +1,12 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="33%">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr style="border:none;">
+    <td width="33%" style="border:none; padding:0;">
       <img src="images/system-overview.png" />
     </td>
-    <td width="33%">
+    <td width="33%" style="border:none; padding:0;">
       <img src="images/factory-io.png" />
     </td>
-    <td width="33%">
+    <td width="33%" style="border:none; padding:0;">
       <img src="images/hmi-screen.png" />
     </td>
   </tr>
