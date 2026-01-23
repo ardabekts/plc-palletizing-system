@@ -1,4 +1,11 @@
-# PLC Palletizing System
+<p align="center">
+  <img src="images/system-overview.png" style="max-width:32%; height:auto;" />
+  <img src="images/factory-io.png" style="max-width:32%; height:auto;" />
+  <img src="images/hmi-screen.png" style="max-width:32%; height:auto;" />
+</p>
+
+<h1 align="center">PLC Palletizing System</h1>
+<p align="center">PLC-based sorting & palletizing with HMI integration</p>
 
 ## 📌 Project Overview
 This project is a **PLC-based palletizing system** developed as a university course project. The system sorts boxes according to their **sizes** and then palletizes them based on predefined logic. The project was later enhanced by adding an **HMI (Human-Machine Interface)** for better monitoring and control.
